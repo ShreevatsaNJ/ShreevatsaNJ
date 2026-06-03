@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=280&section=header&text=Shreevatsa%20N%20J&fontSize=75&fontColor=38BDF8&fontAlignY=45&stroke=A78BFA&strokeWidth=2&desc=Data%20Science%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=22&descAlignY=67&descColor=c4b5fd&animation=scaleIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,25:6366f1,50:A78BFA,75:ec4899,100:F472B6&height=260&section=header&text=Hey%20%F0%9F%91%8B%20I%27m%20Shreevatsa%20N%20J&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=62&descColor=e0e7ff&animation=fadeIn" />
 
 <br/>
 
@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Data%20Science%20Student-38BDF8?style=for-the-badge&logo=graduation-cap&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20Builder-A78BFA?style=for-the-badge&logo=lightning&logoColor=black" />
-<img src="https://img.shields.io/badge/Open%20to%20Opportunities-F472B6?style=for-the-badge&logo=rocket&logoColor=black" />
+<img src="https://img.shields.io/badge/🧠%20Data%20Science%20Student-38BDF8?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🚀%20AI%20Builder-A78BFA?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🔥%20Open%20to%20Opportunities-F472B6?style=for-the-badge&logoColor=black" />
 
 <br/><br/>
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -53,7 +53,7 @@ Vibe    : "Ship it. Learn from it. Repeat."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -91,7 +91,7 @@ Vibe    : "Ship it. Learn from it. Repeat."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -153,7 +153,7 @@ Vibe    : "Ship it. Learn from it. Repeat."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -166,17 +166,17 @@ Vibe    : "Ship it. Learn from it. Repeat."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreevatsaNJ&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=ShreevatsaNJ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreevatsaNJ&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreevatsaNJ&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -193,7 +193,7 @@ while (alive) {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -210,7 +210,7 @@ while (alive) {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -218,12 +218,14 @@ while (alive) {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/shreevatsa-n-j-3b2a8b340/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL_HERE">
+&nbsp;
+<a href="mailto:shreevatsanj29@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/ShreevatsaNJ">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -232,7 +234,7 @@ while (alive) {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:A78BFA,100:F472B6&height=130&section=footer&text=Building.%20Learning.%20Improving.&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A78BFA,100:38BDF8&height=130&section=footer&text=Building.%20Learning.%20Improving.&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
 
