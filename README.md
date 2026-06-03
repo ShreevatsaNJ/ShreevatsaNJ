@@ -1,59 +1,56 @@
-<h1 align="center">Hi 👋, I'm Shreevatsa N J</h1>
-
-<h3 align="center">
-Data Science Student • Data Analytics Enthusiast • Software Developer
-</h3>
+<h1 align="center">
+  Hey 👋, I'm Shreevatsa N J
+</h1>
 
 <p align="center">
-Building AI-powered solutions, analytics dashboards, and real-world applications.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Science+Student;Building+AI+Products;Creator+of+PathRadar;Creator+of+NovoQuest;Python+%7C+Java+%7C+SQL;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧑‍💻 About Me
 
-🎓 Data Science Student at NHCE
+```yaml
+Name: Shreevatsa N J
 
-💻 Passionate about Data Analytics, Software Development, and AI-powered solutions
+Role: Data Science Student
 
-📊 Skilled in Python, Java, SQL, Tableau, NumPy, Pandas, HTML, CSS, JavaScript, and DSA
+Passion:
+  - AI Applications
+  - Data Analytics
+  - Full Stack Development
+  - Problem Solving
 
-🚀 Currently improving my problem-solving skills and building impactful projects
+Current Focus:
+  - DSA
+  - Machine Learning
+  - Real World Projects
 
-🌱 Always learning and exploring new technologies
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Data Science & Analytics
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge)
-
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+Status:
+  Building cool stuff and pushing code 🚀
+```
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🧠 PathRadar — AI-Based Resume Skill Gap Analyzer
+## 🧠 PathRadar
 
-AI-powered platform that analyzes resumes, identifies missing skills, generates personalized learning roadmaps, recommends learning resources, and matches users with relevant job opportunities.
+AI-Based Resume Skill Gap Analyzer
 
 ### Features
 
@@ -61,126 +58,190 @@ AI-powered platform that analyzes resumes, identifies missing skills, generates 
 
 ✅ Skill Gap Detection
 
-✅ Personalized Learning Roadmaps
+✅ Job Recommendations
 
-✅ Learning Resource Recommendations
+✅ Learning Roadmaps
 
 ✅ Industry Skill Explorer
 
-✅ Job Matching Engine
+✅ Course Recommendations
 
-✅ Analytics Dashboard
+✅ Data Visualizations
 
 ### Tech Stack
 
-Python • SQL • HTML • CSS • JavaScript
+```txt
+Python
+Flask
+Machine Learning
+SQL
+HTML
+CSS
+JavaScript
+```
+
+🔗 Repository
+
+https://github.com/ShreevatsaNJ/PathRadar
 
 ---
 
-## 🎯 NovaQuest — Personalized Learning Platform
+## 🎮 NovoQuest
 
-Gamified learning platform designed to improve consistency, engagement, and productivity through quests, streaks, progress tracking, and adaptive learning experiences.
+Personalized AI Learning Platform
 
 ### Features
 
-✅ Learning Dashboard
+🔥 Daily Quests
 
-✅ Quest-Based Learning
+🏆 Boss Battles
 
-✅ Progress Tracking
+📈 Learning Dashboard
 
-✅ Focus Monitoring
+⚡ Micro Challenges
 
-✅ Streak System
+🎯 Personalized Learning Paths
 
-✅ User Authentication
+📊 Streak Tracking
 
 ### Tech Stack
 
-HTML • CSS • JavaScript
+```txt
+HTML
+CSS
+JavaScript
+AI Concepts
+UI/UX Design
+```
+
+🔗 Repository
+
+https://github.com/ShreevatsaNJ/Novo-Quest
 
 ---
 
 ## 📊 Blinkit Sales & Delivery Dashboard
 
-Interactive Tableau dashboard analyzing sales performance, delivery status, category-wise sales, payment methods, and top-selling products.
+Business Intelligence Dashboard built using Tableau.
 
 ### Features
 
-✅ Sales Trend Analysis
+📈 Sales Analysis
 
-✅ Delivery Performance Insights
+🚚 Delivery Performance
 
-✅ Category Analysis
+🛒 Product Insights
 
-✅ Payment Distribution
+💰 Payment Analytics
 
-✅ Business Intelligence Dashboard
-
-### Tech Stack
-
-Tableau
+📊 Interactive Visualizations
 
 ---
 
 ## 📅 Attendance Management System
 
-Web-based attendance tracking system developed as the final CS50 project.
+CS50 Final Project
 
 ### Features
 
 ✅ Attendance Tracking
 
-✅ Student Management
+✅ Student Records
 
-✅ Interactive User Interface
+✅ User Authentication
 
-✅ Real-Time Updates
+✅ Responsive Design
 
 ### Tech Stack
 
-HTML • CSS • JavaScript
+```txt
+HTML
+CSS
+JavaScript
+```
 
 ---
 
-# 📈 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShreevatsaNJ&show_icons=true&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,git,github,vscode"/>
+
 </p>
 
+---
+
+# 📈 GitHub Analytics
+
 <p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreevatsaNJ&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreevatsaNJ&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreevatsaNJ&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreevatsaNJ&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+# ☕ Current Status
 
-🔹 Data Analytics
+```java
+while(alive){
 
-🔹 Python Development
+    Learn();
 
-🔹 Data Structures & Algorithms
+    Build();
 
-🔹 Building Real-World Applications
+    PushToGithub();
 
-🔹 AI-Powered Solutions
+    Repeat();
+
+}
+```
+
+---
+
+# 🎯 2026 Goals
+
+- Master DSA
+- Build More AI Products
+- Contribute to Open Source
+- Secure Data Science Internship
+- Reach 1000+ GitHub Contributions
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shreevatsa-n-j-3b2a8b340">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<p align="center">
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+<p align="center">
+
+### 🚀 Building. Learning. Improving.
+
+⭐ If you like my projects, consider giving them a star.
+
+</p>
